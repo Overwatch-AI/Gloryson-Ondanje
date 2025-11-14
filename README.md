@@ -12,10 +12,18 @@ A Retrieval-Augmented Generation (RAG) system for querying the Boeing 737 Operat
 
 ## 📊 Performance
 
+<<<<<<< HEAD
 - **Hit Rate@3**: 90%
 - **MRR@10**: 0.80
 - **nDCG@10**: 0.80
 - **Page Precision**: 76.9%
+=======
+- **Hit Rate@1**: 80%
+- **Hit Rate@3**: 100%
+- **MRR@10**: 0.90
+- **nDCG@10**: 0.90
+- **Page Precision**: 100%
+>>>>>>> 3bdeb65 (fix: included OCR text in chunked JSON)
 
 ## 🚀 Quick Start
 
@@ -98,4 +106,8 @@ boeing-737-rag/
 - **LLM**: Google Gemini 2.5 Flash
 - **Vector DB**: ChromaDB
 - **Keyword Search**: BM25
+<<<<<<< HEAD
 - **API**: FastAPI
+=======
+- **API**: FastAPI
+>>>>>>> 3bdeb65 (fix: included OCR text in chunked JSON)

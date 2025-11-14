@@ -235,7 +235,7 @@
     "element_type": "text"
   },
   {
-    "text": "[DIAGRAM on page 6]",
+    "text": "2  2  1  2  2  3  165  165  3  5  4  0  3  730  6  9  2  1215  1821  4  9  6  A/T  2  A/T     7  8  V  H  F  118.00  136.97  C  O  M  M  C  A  R  G  O  F  I  R  E  V  H  F  118.00  136.97  C  O  M  M  1  N  A  V  108.00  108.00  N  A  V  108.00  108.00  5  1  A  T  C  T  C  A  S  H  F  29.999  C  O  M  M  A  D  F  8",
     "page_number": 6,
     "element_type": "image"
   },
@@ -260,7 +260,7 @@
     "element_type": "text"
   },
   {
-    "text": "[DIAGRAM on page 7]",
+    "text": "N47324 W122123  1  2  ELT  ELT  ARM  ON  GPS  L  R  1  2  PSEU  165  165  0  3  730  6  9  2  1  1821  215  IDLE  0  5  5  STAB TRIM  MAIN  AUTO  ELECT  NORMAL  PILOT  CUTOFF  1  2  A/T  2  A/T  CUT  OUT     Pilot Flying/Taxiing  (PF) area of  V  H  F  118.00  136.97  C  O  M  M  C  A  R  G  O  F  I  R  E  V  H  F  118.00  136.97  C  O  M  M  responsibility  N  108.00  108.00  N  108.00  108.00  A  A  V  V  Pilot Not Flying/Not  Taxiing (PNF) area   A  T  C  T  C  A  S  of responsibility  Unshaded areas are  the responsibility of  A  D  F  H  F  29.999  C  O  M  M  the pilot seated on",
     "page_number": 7,
     "element_type": "image"
   },
@@ -1330,7 +1330,7 @@
     "element_type": "text"
   },
   {
-    "text": "[DIAGRAM on page 21]",
+    "text": "Mode control panel..............................................................................Set  When selecting a value on the MCP, ensure the corresponding display on   the instrument panel changes, if applicable.  COURSE(S) \u2013 Set and crosscheck  FLIGHT DIRECTOR switches \u2013 ON  Position the switch for the pilot flying to ON first.  AUTOTHROTTLE switch \u2013 OFF  Heading \u2013 Runway heading  Bank angle limit \u2013 As desired  Altitude \u2013 As desired  Autopilots \u2013 Disengaged  Clock....................................................................................................Set  TIME/DATE pushbutton - UTC time  NOSE WHEEL STEERING switch .............................................NORM  Display select panel .............................................................................Set  MAIN PANEL DISPLAY UNITS selector \u2013 NORM  LOWER DISPLAY UNIT selector \u2013 NORM  [Option - EFIS/MAP]",
     "page_number": 21,
     "element_type": "image"
   },
@@ -3270,7 +3270,7 @@
     "element_type": "text"
   },
   {
-    "text": "[DIAGRAM on page 51]",
+    "text": "Normal Procedures  Flight Patterns  Chapter NP  Section 30",
     "page_number": 51,
     "element_type": "image"
   },
@@ -3280,7 +3280,7 @@
     "element_type": "text"
   },
   {
-    "text": "[DIAGRAM on page 51]",
+    "text": "e  d  p  u     s  p  a  l  F     d  e  e  p  s     g  n  i  r  e  v  u  e  n  a  m     p  u     s  p  a  l  f     n  i  a  t  n  i  a  M     \u2022  )  e  n  i  g  n  e     1  (     G  H  C     L  V  L     t  c  e  l  e  s     r  o     )  e  n  i  g  n  e  2  (     d  e  e  p  s     g  n  i  r  e  v  u  e  n  a  m     p  u     s  p  a  l  f     n  i  a  t  n  i  a  M     \u2022  )  e  n  i  g  n  e     1  (     t  s  u  r  h  t     s  u  o  u  n  i  t  n  o  c     x  a  m     t  e  S     \u2022  )  d  e  r  i  u  q  e  r     f  i  (     t  s  i  l  k  c  e  h  c     l  a  m  r  o  N  \u2013  n  o  N     \u2022  t  s  i  l  k  c  e  h  c     f  f  o  e  k  a  T     r  e  t  f  A     \u2022  \u2022  n  i  g  n  e     2  t  e  e  f     0  0  0  3     r  o     e  n  O     \u2022     \u2022     e  L  G  A     t  e  e  f     0  d  o  m     l  l  o  r     t  c  e  d  e  e  p  s     b  m  i  l  c     e  g  a  g  n  e     V  A  N  V     \u2022     \u2022  )  d  e  l  l  a  t  s  n  i     s  a  (     0  4     l  e  S  t  A        \u2022  \u2022     e  t  a  s  R  t  o  R  t  o  V     \u2022  )  n  d  k  e  r  i  u  q  e  r     s  a     0  6     y  b     t  s  u  1  V  (  r     d  e  m  r  a     V  A  h  t     f  f  o  e  k  a  T     N  \u2022  L  \u2022  t  h  g  i  e  h     n  o  i  t  a  r  e  l  e  c  c  A  e  d  u  t  i  t  l  a     n  o  i  t  c  a  r  t  e  r     p  a  l  f  )  e  n  i  g  n  d  e  e  p  s     g  )  .  t  f     0  0  0  1     y  l  l  a  m  r  o  n  (  e     2  (     t  s  u  r  h  t     b  m  i  l  c     y  f  i  r  e  v  /  t  e  S     \u2022     n  i  r  e  v  u  e  n  a  m     p  u     s  p  a  l  f     t  c  e  l  e  S     \u2022     e  l  u  d  e  h  c  s     n  o     s  p  a  l  f     t  c  a  r  t  e  R     \u2022     )  )  e  n  e  n  i  b  m  i  l  c     f  o     e  t  a  r     e  v  i  t  i  s  o  P  p  u     r  a  e  G     \u2022     i  g  n  e     2  (     s  t  o  n  k     5  2     o  t     5  1  +  2  V     \u2022     g  n  e     1  (     s  t  o  n  k     0  2  +  2  V     o  t     2  V     \u2022     e  c  e  t  e  s     t  s  u  r  h  n  a  v  d  a     y  l  l  a  u  n  a  M     z  i  l  i  b  a  t  s     o  t     t  s  u  r  h  t     A  G  /  O  T     s  s  e  r  P",
     "page_number": 51,
     "element_type": "image"
   },
@@ -3295,7 +3295,7 @@
     "element_type": "title"
   },
   {
-    "text": "[DIAGRAM on page 52]",
+    "text": "e  d  o  m     s  r  o  t  c  e  v     R  A  D  A  R     n     L  E  S     G  D  H     e  d  o  m     h  c  t  i  p     e  t  a  i  r  p  o  r  p  p  A  l  l  o  r     e  t  a  i  r  p  o  r  p  p  a     r  o     V  A  N  L  O  \u2022  \u2022  \u2022  1     s  p  a  l  F  \u2022  g  n  i  d  a  e  h     t  p  e  c  r  e  t  n  i     g  n  i  e  d  o  m     h  c  t  i  p     e  t  a  i  r  p  o  r  p  p  a     r  o     V  A  N  V  \u2022  5     s  p  a  l  F  \u2022  h  c  a  o  r  p  p  a     d  e  s  s  i  M     h  c  t  i  w  s     A  G  /  O  T     h  s  u  P  \u2022  t  s  u  r  h  t     d  n  u  o  r  a  -  o  G  \u2022  e  d  u  t  i  t  t  a     d  n  u  o  r  a  -  o  G  \u2022     ,  1     s  p  a  l  f  (     5  1     s  p  a  l  F  \u2022  )  e  n  i  g  n  e     1     ,  b  m  i  l  c     f  o     e  t  a  r     e  v  i  t  i  s  o  P  \u2022  p  u     r  a  e  g     n  o     s  p  a  l  f     t  c  a  r  t  e  R  \u2022  e  l  u  d  e  h  c  s  t  s  i  l  k  c  e  h  c     f  f  o  e  k  a  T     r  e  t  f  A  \u2022  l  e  n  n  a  h  C     e  l  g  n  i  S     m  u  m  i  n  i  M  e  d  u  t  i  t  l  A     e  s  U     t  o  l  i  p  o  t  u  A  )  r  e  t  p  a  h  c     s  n  o  i  t  a  t  i  m  i  L     e  e  s  (     P  /  A     e  g  a  g  n  e  s  i  D  \u2022  n  w  o  d  h  c  u  o  T                 P  /  A     e  g  a  g  n  e  s  i  D  \u2022  )  l  e  n  n  a  h  c     l  a  u  D  (  e  t  t  p  e  c  r  e  t  n  i     e  p  o  l  s  e  d  i  l  G  )  e  n  i  g  n  e     2  (     s  p  a  l  f     g  n  i  d  n  a  L  \u2022  d  u  t  i  t  l  a     h  c  a  o  r  p  p  a     d  e  s  s  i  m     t  e  S  \u2022  s  i  l  k  c  e  h  c     g  n  i  d  n  a  L     e  t  e  l  p  m  o  C  \u2022  )  e  n  i  g  n  e     2  (  t  e  e  F     0  0  5     d  e  m  r  a     E  R  A  L  F     k  c  e  h  C  \u2022  )  l  e  n  n  a  h  c     l  a  u  D  (  x  i  F  )  E  M  D     ,  R  K  M     ,  M  O  L  (  e  d  u  t  i  t  l  a     g  n  i  s  s  o  r  c     y  f  i  r  e  V  \u2022  e  v  i  l  a     e  p  o  l  s  e  d  i  l  G  n  w  o  d     r  a  e  G  \u2022  )  e  n  i  g  n  e     1     r  o  f     p  a  l  f     l  a  n  i  f  (     5  1     s  p  a  l  F  \u2022  e  k  a  r  b  d  e  e  p  s     m  r  A  \u2022  t  s  i  l  k  c  e  h  c     g  n  i  d  n  a  L  \u2022  )  e  n  i  g  n  e     2     r  o  f     s  p  a  l  f     o  t  (  d  e  r  u  t  p  a  c     r     h  c  a  o  r  p  p  a  g  n  i  d  a  e  h     g  n  i  d  a  e  e  i  f  i  t  n  e  d  i     &        s  r  e  t  n  i  o  p     S  /  P     D  M  C     P  /  )  l  e  n  n",
     "page_number": 52,
     "element_type": "image"
   },
@@ -3325,7 +3325,7 @@
     "element_type": "title"
   },
   {
-    "text": "[DIAGRAM on page 53]",
+    "text": "s  r  o  t  c  e  v     R  A  D  A  R     n  O  L  E  S     G  D  H  \u2022  e  d  o  m     h  c  t  i  p     e  t  a  i  r  p  o  r  p  p  A  \u2022  x  i  f     o  t     e  t  u  o  r  n  E  e  d  o  m     l  l  o  r     e  t  a  i  r  p  o  r  p  p  a     r  o     V  A  N  L  \u2022  e  d  o  m     h  c  t  i  p     e  t  a  i  r  p  o  r  p  p  a     r  o     V  A  N  V  \u2022  h  c  a  o  r  p  p  a     d  e  s  s  i  M     h  c  t  i  w  s     A  G  /  O  T     h  s  u  P  \u2022  )  e  n  i  g  n  e     1     ,  1     s  p  a  l  f  (     5  1     s  p  a  l  F  \u2022  e  d  u  t  i  t  t  a     d  n  u  o  r  a  \u2013  o  G  \u2022  t  s  u  r  h  t     d  n  u  o  r  a  \u2013  o  G  \u2022  p  u     r  a  e  g     ,  b  m  i  l  c     f  o     e  t  a  r     e  v  i  t  i  s  o  P  \u2022     e  d  o  m     l  l  o  r     t  c  e  l  e  s     t  e  e  f     0  0  4     e  v  o  b  A  \u2022     t  e  s     ,  e  d  u  t  i  t  l  a     n  o  i  t  c  a  r  t  e  r     p  a  l  f     t  A  \u2022  g  n  i  t  t  e  s     p  a  l  f     d  e  r  i  s  e  d     r  o  f     d  e  e  p  s  e  l  u  d  e  h  c  s     n  o     s  p  a  l  f     t  c  a  r  t  e  R  \u2022     L  V  L     t  c  e  l  e  s     ,  n  o  i  t  c  a  r  t  e  r     p  a  l  f     r  e  t  f  A  \u2022  d  e  r  i  u  q  e  r     s  a     V  A  N  V     r  o     G  H  C  A  D  /  A  D  M     o  t     d  n  e  c  s  h  t  a  p     V  A  N  V     r  o  t  i  n  o  M     h  c  a  o  r  p  p  a     d  e  s  s  i  m     t  e  S  P  C  M     n  i     e  d  u  t  i  t  l  a  t  s  i  l  k  c  e  h  c     g  n  i  d  n  a  L  e  D  \u2022  \u2022  \u2022  1     s  p  a  l  F  \u2022  g  n  i  d  a  e  h  5     s  p  a  l  F  F  A  F     t  p  e  c  r  e  t  n  i     g  n  i  h  5  \u2022     g  n  i  d  a  e  H        r  o     V  A  N  e  d  o  m     l  l  o  r     e  t  a  i  r  )  M  N     5  .  1  (  t  s  u  r  h  t     N  O  C  /  B  L  C     t  c  e  l  e  S  \u2022  n  w  o     d  n  a     e  t  u  o  r     g  n  i  k  c  a  r  t     y  f  i  r  e  V  \u2022  )  e  n  i  g  n  e     1     s  p  a  l  f     g  n  i  d  n  a  l  (     5  e  r  u  t  p  a  c     e  d  u  t  i  t  l  a  e  k  a  r  b  d  e  e  t  s  i  l  k  c  e  h  c     f  f  o  e  k  a  T     r  e  t  f  A  \u2022  A  D  /  A  D  M     t  A     e  l  i  f  o  r  p     g  n  i  d  n  a  l     t  p  e  c  r  e  t  n  I  \u2022     t  o  l  i  p  o  t  u  a     e  g  a  g  n  e  s  i  d     d  n  a  e  l  t  t  o  r  h  t  o  t  u  a     d  n  a  )  d  e  l  l  a  t  A  D  V  A  s  n  i     s  a  (     n  o  i  t  n  e  v  r  )  e  n  i  g  n  e     2  (     s  p  a  /  A  N  V  e  t  n  i  l  f     g",
     "page_number": 53,
     "element_type": "image"
   },
@@ -3415,7 +3415,7 @@
     "element_type": "title"
   },
   {
-    "text": "[DIAGRAM on page 55]",
+    "text": "A  D  M     /     e  d  u  t  i  t  l  A     P  C  M     D  L  O  H     T  L  A     t  c  e  l  e  S  \u2022  )  d  e  r  i  u  q  e  r     f  i  (  e  d  u  t  i  t  l  a     h  c  a  o  r  p  p  a     d  e  s  s  i  m     t  e  S  \u2022  L  E  S     G  D  H     t  c  e  l  e  S  \u2022  A  D  M     t  a     n  o  i  t  a  r  u  g  i  f  n  o  C  n  w  o  d     r  a  e  G  \u2022  )  e  n  i  g  n  e     1  (     p  u     r  a  e  G  \u2022     5  1     s  p  a  l  F  \u2022  )  e  n  i  g  n  e     1  (     0  1     s  p  a  l  F  \u2022  e  k  a  r  b  d  e  e  p  s     m  r  A  \u2022  )  d  e  e  s  a  B     g  n  i  n  r  )  e  n  i  g  n  e     1  (     n  w  o  d     r  a  e  G  s  p  a  l  f     g  n  i  d  n  a  L  t  c  e  l  e  s     y  l  s  u  o  i  v  e  r  p     t  o  n     f  i  (  t  s  i  l  k  c  e  h  c     g  n  i  d  n  a  L  u  T  \u2022  \u2022  \u2022",
     "page_number": 55,
     "element_type": "image"
   },
@@ -3445,7 +3445,7 @@
     "element_type": "title"
   },
   {
-    "text": "[DIAGRAM on page 56]",
+    "text": "d  n  i  w  n  w  o  d     g  n  i  r  e  t  n  E  5     s  p  a  l  F  \u2022  d  n  u  o  r  a  -  o  h  c  t  i  w  s     A  G  /  O  T     h  s  u  P  t  s  u  r  h  t     d  n  u  o  r  a  -  o  G  e  d  u  t  i  t  t  a     d  n  u  o  r  a  -  o  G  1     s  p  a  l  f  (     5  1     s  p  a  l  F  e  n  i  g  n  e     1     r  o  f  b  m  i  l  c     f  o     e  t  a  r     e  v  i  t  i  s  o  P  p  u     r  a  e  g  G  \u2022  \u2022  \u2022  \u2022  \u2022  M  N  T     2  F     0  0  5  1  e  s  a  b     g  n  i  n  r  u  t     o  t     r  o  i  n  w  o  d     r  a  e  G     s  p  a  l  f     g  n  i  d  n  a  l  (     5  1     s  p  a  l  F  )  e  n  i  g  n  e     1     r  o  f  e  k  a  r  b  d  e  e  p  s     m  r  A  d  e  r  i  u  q  e  r     s  a     t  n  e  c  s  e  d     t  r  a  t  S  T  F     0  0  5     -     0  0  7     d  e  z  i  l  i  b  a  t  S  \u2022  r  P  \u2022  \u2022  \u2022  \u2022  e  l  u  d  e  h  c  s     n  o     s  p  a  l  f     t  c  a  r  t  e  R  \u2022  e  l  i  f  o  r  p     n  o  t  s  i  l  k  c  e  h  c     f  f  o  e  k  a  T     r  e  t  f  A  \u2022  M  N     2  /  1  2  -     2  t  s  i  l  s  p  a  l  f     g  )  e  n  k  c  e  h  c     g  e  s  a  n  i  d  n  a  L  \u2022  i  g  n  e     2  (  n  i  d  n  a  L  \u2022",
     "page_number": 56,
     "element_type": "image"
   },
@@ -3453,6 +3453,11 @@
     "text": "Supplementary Procedures",
     "page_number": 57,
     "element_type": "text"
+  },
+  {
+    "text": "Chapter SP  Section 12",
+    "page_number": 57,
+    "element_type": "image"
   },
   {
     "text": "Fuel Balancing",
@@ -6365,6 +6370,11 @@
     "element_type": "title"
   },
   {
+    "text": "BACKGROUND  AFDS FLOOD  1  2  OFF  OFF",
+    "page_number": 109,
+    "element_type": "image"
+  },
+  {
     "text": "LEFT FORWARD PANEL",
     "page_number": 109,
     "element_type": "text"
@@ -6393,6 +6403,11 @@
     "text": "Flood and Aft Electronics Lights Controls",
     "page_number": 109,
     "element_type": "title"
+  },
+  {
+    "text": "FLOOD  PANEL  1  2  OFF  OFF",
+    "page_number": 109,
+    "element_type": "image"
   },
   {
     "text": "AISLE STAND",
@@ -6430,6 +6445,11 @@
     "element_type": "title"
   },
   {
+    "text": "CIRCUIT BREAKER  1  OFF  PANEL  2  OFF",
+    "page_number": 110,
+    "element_type": "image"
+  },
+  {
     "text": "FORWARD OVERHEAD PANEL",
     "page_number": 110,
     "element_type": "text"
@@ -6458,6 +6478,11 @@
     "text": "Dome Light Control",
     "page_number": 110,
     "element_type": "title"
+  },
+  {
+    "text": "DOME WHITE  DIM  OFF  1  BRIGHT",
+    "page_number": 110,
+    "element_type": "image"
   },
   {
     "text": "AFT OVERHEAD PANEL",
@@ -6493,6 +6518,11 @@
     "text": "Master Lights Test and Dim Switch",
     "page_number": 111,
     "element_type": "title"
+  },
+  {
+    "text": "LIGHTS  TEST  BRT  1  DIM",
+    "page_number": 111,
+    "element_type": "image"
   },
   {
     "text": "LEFT FORWARD PANEL",
@@ -6535,7 +6565,7 @@
     "element_type": "title"
   },
   {
-    "text": "[DIAGRAM on page 112]",
+    "text": "2  3  4  E  X  RETRACT  LANDING  OFF  RUNWAY  TURNOFF  L  R  TAXI  T  OFF  OFF  E  N  ON  ON  D  L  ON  R  L  ON  R  RETRACTABLE  FIXED  1",
     "page_number": 112,
     "element_type": "image"
   },
@@ -6605,7 +6635,7 @@
     "element_type": "title"
   },
   {
-    "text": "[DIAGRAM on page 113]",
+    "text": "LOGO  OFF  POSITION  STEADY  ANTI  COLLISION  OFF  WING  OFF  WHEEL  WELL  OFF  OFF  3  1  ON  STROBE &  STEADY  ON  ON  ON  4  2  5  FORWARD OVERHEAD PANEL",
     "page_number": 113,
     "element_type": "image"
   },
@@ -6700,7 +6730,7 @@
     "element_type": "text"
   },
   {
-    "text": "[DIAGRAM on page 114]",
+    "text": "EMER EXIT LIGHTS  1  OFF  2  N  O  T  A  R  M  E  D  ARMED  ON  NO  FASTEN  SMOKING  BELTS  3  OFF  AUTO  4  ON",
     "page_number": 114,
     "element_type": "image"
   },
@@ -6790,6 +6820,11 @@
     "element_type": "title"
   },
   {
+    "text": "1  EMERGENCY  EXIT LIGHTS",
+    "page_number": 115,
+    "element_type": "image"
+  },
+  {
     "text": "AFT ATTENDANT PANEL",
     "page_number": 115,
     "element_type": "text"
@@ -6808,6 +6843,11 @@
     "text": "Cabin Door [Original Flight Deck Door]",
     "page_number": 115,
     "element_type": "title"
+  },
+  {
+    "text": "CAB DOOR  CAB DOOR  1  UNLOCKED",
+    "page_number": 115,
+    "element_type": "image"
   },
   {
     "text": "AISLE STAND",
@@ -6870,6 +6910,11 @@
     "element_type": "title"
   },
   {
+    "text": "2  1  1  2  3  4  5  ENT",
+    "page_number": 117,
+    "element_type": "image"
+  },
+  {
     "text": "PASSENGER SIDE DOOR POST",
     "page_number": 117,
     "element_type": "title"
@@ -6910,6 +6955,11 @@
     "element_type": "title"
   },
   {
+    "text": "FLIGHT DECK  ACCESS SYSTEM  OFF  1  NORM",
+    "page_number": 118,
+    "element_type": "image"
+  },
+  {
     "text": "FLIGHT DECK SIDE DOOR POST",
     "page_number": 118,
     "element_type": "text"
@@ -6935,7 +6985,7 @@
     "element_type": "title"
   },
   {
-    "text": "[DIAGRAM on page 118]",
+    "text": "1  FLT DK DOOR  LOCK  UNLKD  AUTO  DENY  FAIL  AUTO  UNLK  3  2   AISLE STAND",
     "page_number": 118,
     "element_type": "image"
   },
@@ -7005,7 +7055,7 @@
     "element_type": "title"
   },
   {
-    "text": "[DIAGRAM on page 119]",
+    "text": "OVERWING  FWD  EXIT  SERVICE  AFT  AFT  FWD  SERVICE  CARGO  CARGO  FWD  OVERWING  ENTRY  EXIT  EQUIP  AFT  ENTRY",
     "page_number": 119,
     "element_type": "image"
   },
@@ -7025,7 +7075,7 @@
     "element_type": "text"
   },
   {
-    "text": "[DIAGRAM on page 120]",
+    "text": "OVERWING  FWD  EXIT  SERVICE  AFT  AFT  FWD  SERVICE  CARGO  CARGO  FWD  OVERWING  ENTRY  EXIT  EQUIP  AFT  ENTRY",
     "page_number": 120,
     "element_type": "image"
   },
@@ -7045,7 +7095,7 @@
     "element_type": "text"
   },
   {
-    "text": "[DIAGRAM on page 121]",
+    "text": "RIGHT AFT  RIGHT FWD  FWD  OVERWING  OVERWING  SERVICE  AFT  AFT  FWD  SERVICE  CARGO  CARGO  FWD  LEFT FWD  LEFT AFT  ENTRY  OVERWING  OVERWING  AIRSTAIR  EQUIP  AFT",
     "page_number": 121,
     "element_type": "image"
   },
@@ -7065,7 +7115,7 @@
     "element_type": "text"
   },
   {
-    "text": "[DIAGRAM on page 122]",
+    "text": "RIGHT AFT  RIGHT FWD  FWD  OVERWING  OVERWING  SERVICE  AFT  AFT  FWD  SERVICE  CARGO  CARGO  FWD  LEFT FWD  LEFT AFT  ENTRY  OVERWING  OVERWING  AIRSTAIR  EQUIP  AFT  ENTRY",
     "page_number": 122,
     "element_type": "image"
   },
@@ -7110,7 +7160,7 @@
     "element_type": "title"
   },
   {
-    "text": "[DIAGRAM on page 123]",
+    "text": "CONTROL HANDLE  ASSIST HANDLE  INSTRUCTION   PLACARD  SLIDE PRESSURE   GAUGE VIEWER  SLIDE   COMPARTMENT  STOWAGE HOOKS  GIRT  FLOOR BRACKETS  GIRT BAR",
     "page_number": 123,
     "element_type": "image"
   },
@@ -7125,7 +7175,7 @@
     "element_type": "text"
   },
   {
-    "text": "[DIAGRAM on page 123]",
+    "text": "CREW  PASS OXYGEN  OXYGEN  NORMAL  1  5  10  15  ON  2  0  20  OXY PRESS  PS1 X 100  PASS OXY  ON  3",
     "page_number": 123,
     "element_type": "image"
   },
@@ -7180,7 +7230,7 @@
     "element_type": "title"
   },
   {
-    "text": "[DIAGRAM on page 124]",
+    "text": "1  2  N  3  RESET   TEST  OXY  ON  100%  PUSH  OXYGEN  MASK",
     "page_number": 124,
     "element_type": "image"
   },
@@ -7260,7 +7310,7 @@
     "element_type": "title"
   },
   {
-    "text": "[DIAGRAM on page 125]",
+    "text": "HARNESS   1  (shown inflated)  3  MASK  MICROPHONE  REGULATOR  2  CREWMEMBER STATION",
     "page_number": 125,
     "element_type": "image"
   },
@@ -7325,7 +7375,7 @@
     "element_type": "title"
   },
   {
-    "text": "[DIAGRAM on page 126]",
+    "text": "FORWARD AIRSTAIR  AUTO  OFF  ON  1  2  LIGHTS  2  5  AIRSTAIRS  RETRACT  POWER  STANDBY  6  EXTEND  NORMAL  RETRACT  EXTEND  3  STAIRS  OPER  4  STANDBY  FORWARD ATTENDANT   BELOW AND AFT OF   PANEL  FWD ENTRY DOOR",
     "page_number": 126,
     "element_type": "image"
   },
@@ -7450,7 +7500,7 @@
     "element_type": "title"
   },
   {
-    "text": "[DIAGRAM on page 128]",
+    "text": "2  POTABLE WATER  3  4  F  1  3/4  1/2  5  1/4  E  6  AFT ATTENDANT   PANEL  BELOW AFT ENTRY  DOOR",
     "page_number": 128,
     "element_type": "image"
   },
@@ -7530,7 +7580,7 @@
     "element_type": "title"
   },
   {
-    "text": "[DIAGRAM on page 129]",
+    "text": "1   OFF  2  Y  L  N  O  T  E  C  U  A  F  T  O  I  L  E  T  O  N  L  Y  3  4  SUPPLY   ON  5",
     "page_number": 129,
     "element_type": "image"
   },
@@ -7855,7 +7905,7 @@
     "element_type": "title"
   },
   {
-    "text": "[DIAGRAM on page 132]",
+    "text": "TAXI LIGHT  (white,nose gear)  WING ILLUMINATION  WING ILLUMINATION  LIGHTS (white)  LIGHTS (white)  RETRACTABLE LANDING   RETRACTABLE LANDING   LIGHTS  (white)  LIGHTS  (white)  RUNWAY TURNOFF   LIGHTS (white)  RUNWAY TURNOFF   LIGHTS (white)  FIXED LANDING   LIGHTS (white)  FIXED LANDING   LIGHTS (white)  UPPER AND LOWER  ANTI-COLLISION LIGHT  (red strobe light)  STROBE   STROBE   LIGHT (white)  LIGHT   (white)  POSITION LIGHTS   (red and white)   POSITION LIGHTS  (green and white)  LOGO LIGHT (white)  LOGO LIGHT (white)  STROBE LIGHT (white)",
     "page_number": 132,
     "element_type": "image"
   },
@@ -7865,7 +7915,7 @@
     "element_type": "text"
   },
   {
-    "text": "[DIAGRAM on page 133]",
+    "text": "TAXI LIGHT  (white,nose gear)  WING ILLUMINATION  WING ILLUMINATION  LIGHTS (white)  LIGHTS (white)  RETRACTABLE LANDING   RETRACTABLE LANDING   LIGHTS  (white)  LIGHTS  (white)  RUNWAY TURNOFF   LIGHTS (white)  RUNWAY TURNOFF   LIGHTS (white)  FIXED LANDING   LIGHTS (white)  FIXED LANDING   LIGHTS (white)  UPPER AND LOWER  ANTI-COLLISION LIGHT  (red strobe light)  STROBE   LIGHT (white)  STROBE   LIGHT   (white)  POSITION LIGHTS   (red and white)   POSITION LIGHTS  (green and white)  LOGO LIGHT (white)  LOGO LIGHT (white)  STROBE LIGHT (white)",
     "page_number": 133,
     "element_type": "image"
   },
@@ -8095,7 +8145,7 @@
     "element_type": "title"
   },
   {
-    "text": "[DIAGRAM on page 138]",
+    "text": "INTEGRAL SLIDE  LIGHTING        EXIT LOCATOR SIGNS  ESCAPE SLIDE  LIGHTING  - Located in the    passenger cabin    ceiling.  PHOTOLUMINESCENT  STRIP LIGHTING  EXTERIOR  EMERGENCY   LIGHTING        AISLE LIGHTS  EMERGENCY EXIT SIGNS  - Located in the forward    and aft lowered ceiling,    in the center of the    passenger cabin above     the overwing escape     hatches, and above each     entry and service door.",
     "page_number": 138,
     "element_type": "image"
   },
@@ -8105,7 +8155,7 @@
     "element_type": "title"
   },
   {
-    "text": "[DIAGRAM on page 139]",
+    "text": "INTEGRAL SLIDE  LIGHTING  ESCAPE SLIDE  LIGHTING        EXIT LOCATOR SIGNS  - Located in the    passenger cabin    ceiling.  FLOOR PROXIMITY  AISLE LOCATOR LIGHTS  EXTERIOR  EMERGENCY   LIGHTING        AISLE LIGHTS  EMERGENCY EXIT SIGNS  - Located in the forward    and aft lowered ceiling,    in the center of the    passenger cabin above     the overwing escape     hatches, and above each     entry and service door.",
     "page_number": 139,
     "element_type": "image"
   },
@@ -8305,7 +8355,7 @@
     "element_type": "title"
   },
   {
-    "text": "[DIAGRAM on page 143]",
+    "text": "CHEMICAL OXYGEN  GENERATOR  RELEASE FIRING PIN  DOOR LATCH  MECHANISM  GENERATOR LANYARD  OXYGEN MASK LANYARD  FWD  OXYGEN IN-LINE   FLOW INDICATOR  PSU  OXYGEN MASK DOOR  (SHOWN OPEN)  OXYGEN HOSE  RESERVOIR BAG  MASK",
     "page_number": 143,
     "element_type": "image"
   },
@@ -8345,7 +8395,7 @@
     "element_type": "title"
   },
   {
-    "text": "[DIAGRAM on page 144]",
+    "text": "CONSTANT FLOW  OUTLET (4 LITER FLOW)  CONSTANT   FLOW   OUTLET   (2 LITER   FLOW)  PRESSURE REGULATOR  ON-OFF VALVE  PRESSURE GAUGE  PLACARD  OXYGEN CYLINDER",
     "page_number": 144,
     "element_type": "image"
   },
@@ -8405,6 +8455,11 @@
     "element_type": "title"
   },
   {
+    "text": "TRIGGER  SAFETY WIRED  DISCHARGE  NOZZLE  HANDLE",
+    "page_number": 145,
+    "element_type": "image"
+  },
+  {
     "text": "Halon (BCF) Fire Extinguishers",
     "page_number": 145,
     "element_type": "title"
@@ -8450,7 +8505,7 @@
     "element_type": "title"
   },
   {
-    "text": "[DIAGRAM on page 146]",
+    "text": "LEVER  DISCHARGE  NOZZLE  RING SAFETY  PIN  PRESSURE  GAUGE  HANDLE",
     "page_number": 146,
     "element_type": "image"
   }
