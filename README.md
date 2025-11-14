@@ -28,7 +28,7 @@ A Retrieval-Augmented Generation (RAG) system for querying the Boeing 737 Operat
 ### Installation
 ```bash
 # Clone repository
-git clone <repository-url>
+git clone https://github.com/Gson-glitch/boeing-737-rag.git
 cd boeing-737-rag
 
 # Install dependencies
