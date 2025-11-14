@@ -73,9 +73,8 @@ class PDFParser:
             
             # Keep only meaningful diagrams (longer descriptions)
             if elem_type == "image":
-                if len(text) < 50:  # Skip small/simple images
+                if len(text) < 20:  # Skip small/simple images
                     continue
-                text = f"[DIAGRAM on page {page_num}]"
             
             parsed.append(ParsedElement(
                 text=text,
