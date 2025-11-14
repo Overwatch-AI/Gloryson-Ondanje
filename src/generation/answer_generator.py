@@ -94,15 +94,14 @@ class AnswerGenerator:
         """
         Extract page numbers from citations in the answer.
         """
-        # Find all citations like [Document 1], [Document 2, Document 3]
-        citation_pattern = r'\[Document\s+(\d+(?:,\s*\d+)*)\]'
+        citation_pattern = r'\[Document\s+\d+(?:(?:,\s*(?:Document\s+)?\d+)*)\]'
         matches = re.findall(citation_pattern, answer)
         
         cited_doc_indices = set()
+        
         for match in matches:
-            # Handle comma-separated document numbers
-            doc_nums = [int(n.strip()) for n in match.split(',')]
-            cited_doc_indices.update(doc_nums)
+            numbers = re.findall(r'\d+', match)
+            cited_doc_indices.update(int(n) for n in numbers)
         
         # Map document indices to page numbers
         cited_pages = []
@@ -112,10 +111,10 @@ class AnswerGenerator:
                 if page not in cited_pages:
                     cited_pages.append(page)
         
-        # Fallback: if no citations found, return all pages from top chunks
+        # Fallback: if no citations found, use top 3 chunks
         if not cited_pages:
-            logger.warning("No citations found in answer, using all context pages")
-            cited_pages = [chunk['page_number'] for chunk in chunks]
+            logger.warning("No citations found in answer, using top 3 context pages")
+            cited_pages = [chunk['page_number'] for chunk in chunks[:3]]
             cited_pages = sorted(list(set(cited_pages)))
         
         return cited_pages
